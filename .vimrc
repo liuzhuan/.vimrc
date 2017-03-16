@@ -2,4 +2,14 @@ set autoindent
 set linebreak
 set cursorline
 set number
-syntax enable
+syntax on
+
+inoremap jk <ESC>
+
+" Changing the leader key
+let mapleader = "\<Space>"
+
+" Remapping CAPSLOCK to Ctrl at operating system level
+
+filetype plugin indent on
+set encoding=utf-8
