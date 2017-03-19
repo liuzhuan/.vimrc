@@ -13,3 +13,7 @@ let mapleader = "\<Space>"
 
 filetype plugin indent on
 set encoding=utf-8
+
+" spell checking
+set spell spelllang=en_us
+nnoremap <leader>f 1z=
