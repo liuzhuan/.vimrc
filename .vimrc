@@ -2,6 +2,8 @@ set autoindent
 set linebreak
 set cursorline
 set number
+set hlsearch
+set tabstop=4
 syntax on
 
 inoremap jk <ESC>
