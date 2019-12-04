@@ -7,7 +7,7 @@ This repository store my `.vimrc` configuration.
 
 ## Usage
 
-First, use `git clone https://github.com/liuzhuan/.vimrc/.vimrc.git` to clone into local disk.
+First, use `git clone https://github.com/liuzhuan/.vimrc.git` to clone into local disk.
 
 Then, use `ln ~/github/liuzhuan/.vimrc/.vimrc ~/.vimrc`.
 
