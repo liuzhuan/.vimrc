@@ -4,6 +4,7 @@ set linebreak
 set cursorline
 set number
 set hlsearch
+set is
 set tabstop=4
 set softtabstop=4
 set shiftwidth=4
